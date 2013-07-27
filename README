@@ -1,1 +1,11 @@
-Testing Robs first git commit.
+Android Country List
+
+A simple Android Application to create a list of View's each comprising of the image of a countries flag and the name of the corresponding country. 
+
+This list is currently populated via arrays within the app for the purpose of this demo. Future work can be done to read these from a database or online service. 
+
+The ListView has a bespoke Adapter and uses the the ViewHolder pattern in order to allow for smooth scrolling through the list of items. 
+
+Please feel free to comment or make further suggestions to improve the program. I intend to do further work as a means of learning more about Android development.
+
+Rob.
